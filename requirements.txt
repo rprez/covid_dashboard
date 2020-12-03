@@ -1,0 +1,11 @@
+Flask
+Flask-Login
+Flask-WTF
+gunicorn
+itsdangerous
+Jinja2
+pymongo
+Werkzeug
+WTForms
+
+
